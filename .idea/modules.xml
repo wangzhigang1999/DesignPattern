@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/单一职责/单一职责.iml" filepath="$PROJECT_DIR$/单一职责/单一职责.iml" />
+      <module fileurl="file://$PROJECT_DIR$/接口隔离原则/接口隔离原则.iml" filepath="$PROJECT_DIR$/接口隔离原则/接口隔离原则.iml" />
+    </modules>
+  </component>
+</project>

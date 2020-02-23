@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/依赖倒转原则/依赖倒转原则.iml" filepath="$PROJECT_DIR$/依赖倒转原则/依赖倒转原则.iml" />
       <module fileurl="file://$PROJECT_DIR$/单一职责/单一职责.iml" filepath="$PROJECT_DIR$/单一职责/单一职责.iml" />
+      <module fileurl="file://$PROJECT_DIR$/单例模式/单例模式.iml" filepath="$PROJECT_DIR$/单例模式/单例模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/开闭原则/开闭原则.iml" filepath="$PROJECT_DIR$/开闭原则/开闭原则.iml" />
       <module fileurl="file://$PROJECT_DIR$/接口隔离原则/接口隔离原则.iml" filepath="$PROJECT_DIR$/接口隔离原则/接口隔离原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/简单工厂模式/简单工厂模式.iml" filepath="$PROJECT_DIR$/简单工厂模式/简单工厂模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/里氏替换原则/里氏替换原则.iml" filepath="$PROJECT_DIR$/里氏替换原则/里氏替换原则.iml" />
     </modules>
   </component>

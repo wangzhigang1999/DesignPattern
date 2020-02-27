@@ -3,10 +3,12 @@ public class App {
         WoodenHouseBuilder woodenHouseBuilder = new WoodenHouseBuilder();
         House house = new HouseDirector(woodenHouseBuilder).constructHouse();
         House house2 = new HouseDirector(woodenHouseBuilder).constructHouse();
-        System.out.println(house==house2);
+        System.out.println(house == house2);
 
     }
 }
+
+
 
 class House {
 

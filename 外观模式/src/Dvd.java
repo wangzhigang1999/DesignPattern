@@ -1,6 +1,10 @@
 public class Dvd {
     private static Dvd INSTANCE;
 
+
+    /**
+     * DCL 双重检锁,单例模式.
+     */
     public static Dvd getInstance() {
         if (INSTANCE == null) {
             synchronized (Dvd.class) {

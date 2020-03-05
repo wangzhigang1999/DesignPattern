@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/抽象工厂模式/抽象工厂模式.iml" filepath="$PROJECT_DIR$/抽象工厂模式/抽象工厂模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/接口隔离原则/接口隔离原则.iml" filepath="$PROJECT_DIR$/接口隔离原则/接口隔离原则.iml" />
       <module fileurl="file://$PROJECT_DIR$/桥接模式/桥接模式.iml" filepath="$PROJECT_DIR$/桥接模式/桥接模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/模板方法模式/模板方法模式.iml" filepath="$PROJECT_DIR$/模板方法模式/模板方法模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/简单工厂模式/简单工厂模式.iml" filepath="$PROJECT_DIR$/简单工厂模式/简单工厂模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/组合模式/组合模式.iml" filepath="$PROJECT_DIR$/组合模式/组合模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/装饰者模式/装饰者模式.iml" filepath="$PROJECT_DIR$/装饰者模式/装饰者模式.iml" />

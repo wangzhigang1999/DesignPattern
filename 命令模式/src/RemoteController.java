@@ -3,6 +3,9 @@ public class RemoteController {
     private Command[] offCommands;
     private Command undoCommand;
 
+    /**
+     * 初始化一个空的遥控器
+     */
     public RemoteController() {
         onCommands = new Command[5];
         offCommands = new Command[5];

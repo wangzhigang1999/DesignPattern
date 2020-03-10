@@ -7,15 +7,3 @@ public class Main {
     }
 }
 
-class Email implements Receiver {
-    @Override
-    public String getInfo() {
-        return "msg";
-    }
-}
-
-class Person {
-    public void receive(Receiver receiver) {
-        System.out.println(receiver.getInfo());
-    }
-}

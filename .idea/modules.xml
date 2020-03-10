@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/组合模式/组合模式.iml" filepath="$PROJECT_DIR$/组合模式/组合模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/装饰者模式/装饰者模式.iml" filepath="$PROJECT_DIR$/装饰者模式/装饰者模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/访问者模式/访问者模式.iml" filepath="$PROJECT_DIR$/访问者模式/访问者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/迭代器模式/迭代器模式.iml" filepath="$PROJECT_DIR$/迭代器模式/迭代器模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/适配器模式/适配器模式.iml" filepath="$PROJECT_DIR$/适配器模式/适配器模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/里氏替换原则/里氏替换原则.iml" filepath="$PROJECT_DIR$/里氏替换原则/里氏替换原则.iml" />
     </modules>

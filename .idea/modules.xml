@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/简单工厂模式/简单工厂模式.iml" filepath="$PROJECT_DIR$/简单工厂模式/简单工厂模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/组合模式/组合模式.iml" filepath="$PROJECT_DIR$/组合模式/组合模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/装饰者模式/装饰者模式.iml" filepath="$PROJECT_DIR$/装饰者模式/装饰者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/观察者模式/观察者模式.iml" filepath="$PROJECT_DIR$/观察者模式/观察者模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/访问者模式/访问者模式.iml" filepath="$PROJECT_DIR$/访问者模式/访问者模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/迭代器模式/迭代器模式.iml" filepath="$PROJECT_DIR$/迭代器模式/迭代器模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/适配器模式/适配器模式.iml" filepath="$PROJECT_DIR$/适配器模式/适配器模式.iml" />

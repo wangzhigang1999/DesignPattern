@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/中介者模式/中介者模式.iml" filepath="$PROJECT_DIR$/中介者模式/中介者模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/享元模式/享元模式.iml" filepath="$PROJECT_DIR$/享元模式/享元模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/代理模式/代理模式.iml" filepath="$PROJECT_DIR$/代理模式/代理模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/依赖倒转原则/依赖倒转原则.iml" filepath="$PROJECT_DIR$/依赖倒转原则/依赖倒转原则.iml" />

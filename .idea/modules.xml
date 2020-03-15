@@ -20,8 +20,11 @@
       <module fileurl="file://$PROJECT_DIR$/接口隔离原则/接口隔离原则.iml" filepath="$PROJECT_DIR$/接口隔离原则/接口隔离原则.iml" />
       <module fileurl="file://$PROJECT_DIR$/桥接模式/桥接模式.iml" filepath="$PROJECT_DIR$/桥接模式/桥接模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/模板方法模式/模板方法模式.iml" filepath="$PROJECT_DIR$/模板方法模式/模板方法模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/状态模式/状态模式.iml" filepath="$PROJECT_DIR$/状态模式/状态模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/策略模式/策略模式.iml" filepath="$PROJECT_DIR$/策略模式/策略模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/简单工厂模式/简单工厂模式.iml" filepath="$PROJECT_DIR$/简单工厂模式/简单工厂模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/组合模式/组合模式.iml" filepath="$PROJECT_DIR$/组合模式/组合模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/职责链模式/职责链模式.iml" filepath="$PROJECT_DIR$/职责链模式/职责链模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/装饰者模式/装饰者模式.iml" filepath="$PROJECT_DIR$/装饰者模式/装饰者模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/观察者模式/观察者模式.iml" filepath="$PROJECT_DIR$/观察者模式/观察者模式.iml" />
       <module fileurl="file://$PROJECT_DIR$/解释器模式/解释器模式.iml" filepath="$PROJECT_DIR$/解释器模式/解释器模式.iml" />
